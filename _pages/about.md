@@ -1,34 +1,36 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: rahul.JPG
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p class="profile-contact">rkt2129 [at] columbia [dot] edu</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: false
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first-year PhD student in Electrical Engineering at Columbia University, advised by [Micah Goldblum](https://goldblum.github.io/) and [Adam Block](https://abblock.github.io/). My research focuses on efficient inference and post-training, as well as privacy and robustness, in modern language models. I am currently supported by the [Robert and Rosemarie Schrage Fellowship](https://www.ee.columbia.edu/news/rahul-krishna-thomas-26-named-robert-and-rosemarie-schrage-engineering-fellow) at Columbia Engineering.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am also a researcher at [Ritual](https://ritual.net/), where I study speculative decoding and private LLM inference. My recent work on multi-draft speculative decoding was selected for an oral presentation at ICLR 2026. My other work has appeared at venues including ICML, SIGGRAPH Asia, and NeurIPS; see Publications for details.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to Columbia, I completed my B.S. in Mathematics and M.S. in Computer Science at Stanford University, where I studied combinatorics and topology before later working on 3D reconstruction at the [Guibas Lab](https://geometry.stanford.edu/).
+
+<style>
+.profile-contact {
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-top: 0.5rem;
+}
+</style>
