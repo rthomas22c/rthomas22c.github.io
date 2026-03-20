@@ -9,7 +9,7 @@ last_name: Thomas
 contact_note: >
 description:
 footer_text: >
-  Powered by Jekyll with al-folio theme. Hosted by GitHub Pages. Photos from Unsplash.
+  Powered by Jekyll with al-folio theme. Hosted by GitHub Pages.
 keywords: rahul thomas, columbia university, electrical engineering, machine learning, llm inference, speculative decoding, post-training, privacy, robustness
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ""
