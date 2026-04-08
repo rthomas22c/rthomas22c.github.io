@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-08'
 papers:
   dXOWqeYAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
@@ -22,10 +22,10 @@ papers:
     title: 'Nerf revisited: Fixing quadrature instability in volume rendering'
     year: '2023'
   dXOWqeYAAAAJ:u-x6o8ySG0sC:
-    citations: 36
+    citations: 37
     title: 'Img2cad: Reverse engineering 3d cad models from images through vlm-assisted conditional factorization'
     year: '2025'
   dXOWqeYAAAAJ:zYLM7Y9cAGgC:
-    citations: 0
+    citations: 1
     title: 'Actionable Insights on Philadelphia Crime Hot-Spots: Clustering and Statistical Analysis to Inform Future Crime Legislation'
     year: '2023'
