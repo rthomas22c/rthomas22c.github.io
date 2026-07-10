@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-10'
 papers:
   dXOWqeYAAAAJ:Tyk-4Ss8FVUC:
     citations: 1
@@ -14,15 +14,15 @@ papers:
     title: Greedy Multi-Path Block Verification for Faster Decoding in Speculative Sampling
     year: '2026'
   dXOWqeYAAAAJ:d1gkVwhDpl0C:
-    citations: 8
+    citations: 9
     title: 'Hidden No More: Attacking and Defending Private Third-Party LLM Inference'
     year: '2025'
   dXOWqeYAAAAJ:qjMakFHDy7sC:
-    citations: 12
+    citations: 13
     title: 'Nerf revisited: Fixing quadrature instability in volume rendering'
     year: '2023'
   dXOWqeYAAAAJ:u-x6o8ySG0sC:
-    citations: 48
+    citations: 50
     title: 'Img2cad: Reverse engineering 3d cad models from images through vlm-assisted conditional factorization'
     year: '2025'
   dXOWqeYAAAAJ:zYLM7Y9cAGgC:
