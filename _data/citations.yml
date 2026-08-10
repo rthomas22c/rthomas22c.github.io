@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-08-10'
 papers:
   dXOWqeYAAAAJ:Tyk-4Ss8FVUC:
-    citations: 1
+    citations: 2
     title: 'Global Resolution: Optimal Multi-Draft Speculative Sampling via Convex Minimization'
     year: '2025'
   dXOWqeYAAAAJ:W7OEmFMy1HYC:
@@ -10,19 +10,19 @@ papers:
     title: Dynamic Delayed Tree Expansion For Improved Multi-Path Speculative Decoding
     year: '2026'
   dXOWqeYAAAAJ:Y0pCki6q_DkC:
-    citations: 0
+    citations: 1
     title: Greedy Multi-Path Block Verification for Faster Decoding in Speculative Sampling
     year: '2026'
   dXOWqeYAAAAJ:d1gkVwhDpl0C:
-    citations: 9
+    citations: 10
     title: 'Hidden No More: Attacking and Defending Private Third-Party LLM Inference'
     year: '2025'
   dXOWqeYAAAAJ:qjMakFHDy7sC:
-    citations: 13
+    citations: 15
     title: 'Nerf revisited: Fixing quadrature instability in volume rendering'
     year: '2023'
   dXOWqeYAAAAJ:u-x6o8ySG0sC:
-    citations: 50
+    citations: 59
     title: 'Img2cad: Reverse engineering 3d cad models from images through vlm-assisted conditional factorization'
     year: '2025'
   dXOWqeYAAAAJ:zYLM7Y9cAGgC:
